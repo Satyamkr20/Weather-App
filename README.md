@@ -1,5 +1,5 @@
 # Weather-App
-weather app with new features using HTML, CSS, JavaScript, and API also involved for better search.
+weather app with new features using HTML, CSS, JavaScript, and API also involved for better search.The features of the weather app is that when you open the application then it tell the weather of your current locations and you can also search weather of any other cities by manually.
 ![MVIMG_20210130_163902](https://user-images.githubusercontent.com/71181419/106354793-4b62d580-631a-11eb-9b3a-a96d01599283.jpg)
 ![Weather app - Google Chrome 30-01-2021 14_41_59](https://user-images.githubusercontent.com/71181419/106354957-3dfa1b00-631b-11eb-9b53-788282d7de79.png)
 ![Weather app - Google Chrome 30-01-2021 14_42_14](https://user-images.githubusercontent.com/71181419/106354977-5bc78000-631b-11eb-941d-b811e2375386.png)
